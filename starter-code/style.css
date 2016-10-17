@@ -20,7 +20,7 @@ nav a {
 	background-color: #ffbf00;
 	color: white;
 	padding: 35px;
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 nav a:hover{
@@ -43,8 +43,9 @@ p {
 .board{
 	display: inline-block;
 	height: 80%;
-	width: 50%;	
+	width: 50%;
 }
+
 .card {
 	height: 200px;
 	width: 150px;
@@ -67,4 +68,4 @@ p {
 	height: 200px;
   width: 150px;
 }
- 
+
